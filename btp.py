@@ -7,10 +7,10 @@ from datetime import datetime
    
   
 
-consumer_key='6zSyLNhbmD1O68uNhZtF16ifJ'
-consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE'
+consumer_key='6zSyLNhbmD1O68uNhZtF16if12J'
+consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE12'
 access_token = '298398033-jU0Q9NvuD2B0cmkiX97zgzoVig1Q3tgIgFSmj5Vx'
-access_secret = 'mG6uiNPzu91V2I6KTCInm8Mh6NKorzGw5od4TNXknVd0f'
+access_secret = 'mG6uiNPzu91V2I6KTCInm8Mh6NKorzGw5od4TNXknVd012f'
 
 consumer = oauth.Consumer(key=consumer_key , secret=consumer_secret)
 token=oauth.Token(key=access_token,secret=access_secret)
