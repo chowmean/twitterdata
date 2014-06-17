@@ -7,8 +7,8 @@ from datetime import datetime
 
 
 
-consumer_key='6zSyLNhbmD1O68uNhZtF16ifJ'
-consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE'
+consumer_key='6zSyLNhbmD1O68uNhZt16ifJ'
+consumer_secret='CbI4Ew3t4HLnkpGjBYC1Bm31HxTDJ9rQiERyiy37hGSdALyE'
 
 consumer = oauth.Consumer(key=consumer_key , secret=consumer_secret)
 
