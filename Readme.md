@@ -7,8 +7,14 @@ Please do install following libraries for using the codes.
 3. sudo pip install tweepy
 4. sudo pip install requests
 
-To Run the programs just type
-Replace your app secrets.
+To Run the programs.
+
+->Register your app and get app secrets and tokens
+
+->Replace your app secrets.
+
+->then type in terminal
+
 
 >> python program_name.py
 
