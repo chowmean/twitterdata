@@ -1,13 +1,15 @@
-<center><u>Twitter Data Extraction in different ways</u></center>
+#Twitter Data Extraction in different ways
 
-#Please do install following libraries for using the codes.
+Please do install following libraries for using the codes.
 
 1. sudo apt-get install pip
 2. sudo pip install oauth2
 3. sudo pip install tweepy
 4. sudo pip install requests
 
-#to Run the programs just type
+To Run the programs just type
+Replace your app secrets.
+
 >> python program_name.py
 
 Dependencies : Tweepy,oauth2,requests,beautifulsoup,hadoop(will be included)
