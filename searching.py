@@ -11,10 +11,10 @@ params = {
 }
 
 
-consumer_key='6zSyLNhbmD1O68uNhZtF16ifJ'
-consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE'
-access_token='298398033-jU0Q9NvuD2B0cmkiX97zgzoVig1Q3tgIgFSmj5Vx'
-access_secret='mG6uiNPzu91V2I6KTCInm8Mh6NKorzGw5od4TNXknVd0f'
+consumer_key='6zSyLNhbmD1O68uNhZtF16123ifJ'
+consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37123hGSdALyE'
+access_token='298398033-jU0Q9NvuD2B0cmkiX97zgzoVig1Q1231d3tgIgFSmj5Vx'
+access_secret='mG6uiNPzu91V2I6KTCInm8Mh6NKorz3Gw5od4TNXknVd0f'
 
 
 consumer = oauth2.Consumer(key=consumer_key, secret=consumer_secret)
