@@ -6,9 +6,9 @@ import csv
 
 
 consumer_key='6zSyLNhbmD1O68uNhZtF16ifJ'
-consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE'
+consumer_secret='CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERy12iy37hGSdALyE'
 access_token='298398033-jU0Q9NvuD2B0cmkiX97zgzoVig1Q3tgIgFSmj5Vx'
-access_secret='mG6uiNPzu91V2I6KTCInm8Mh6NKorzGw5od4TNXknVd0f'
+access_secret='mG6uiNPzu91V2I6KTCInm8Mh6NKorzG3w5od4TNXknVd1230f'
 
 consumer=oauth.Consumer(key=consumer_key,secret=consumer_secret)
 token=oauth.Token(key=access_token,secret=access_secret)
