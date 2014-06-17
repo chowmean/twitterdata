@@ -8,8 +8,8 @@ REQUEST_TOKEN_URL = "https://api.twitter.com/oauth/request_token"
 AUTHORIZE_URL = "https://api.twitter.com/oauth/authorize?oauth_token="
 ACCESS_TOKEN_URL = "https://api.twitter.com/oauth/access_token"
 
-CONSUMER_KEY = "6zSyLNhbmD1O68uNhZtF16ifJ"
-CONSUMER_SECRET = "CbI4Ew3t4HLnkpGjBP7YC1Bm31HxTDJ9rQiERyiy37hGSdALyE"
+CONSUMER_KEY = "6zSyLNhbmD1O68uNhtF16ifJ"
+CONSUMER_SECRET = "CbI4Ew3t4HLnkpGj7YC1Bm31HxTDJ9rQiERyy37hGSdALyE"
 
 OAUTH_TOKEN = ""
 OAUTH_TOKEN_SECRET = ""
